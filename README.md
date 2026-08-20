@@ -2,7 +2,7 @@
 
 > Projeto real desenvolvido com metodologia QA aplicada (ISTQB Foundation) | **Parceiro Digital**
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Versao2.0-blue)
 ![QA](https://img.shields.io/badge/Metodologia-QA%20First-green)
 ![Stack](https://img.shields.io/badge/Stack-Google%20Sheets%20%2B%20Apps%20Script-blue)
 ![Licença](https://img.shields.io/badge/Licença-MIT-lightgrey)
